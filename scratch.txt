@@ -1,0 +1,6 @@
+
+
+film = "Kamila MaCIEJska"
+
+z_malej = film.lower()
+len(film)
